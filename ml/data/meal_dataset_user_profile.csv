@@ -1,0 +1,337 @@
+name,calories,protein,carbs,fat,fiber,sugar,sodium,dietType,mealTime,health_score,age,height_cm,weight_kg,bmi,bmi_category,diagnosis,target_calories,target_protein,personalized_score
+Oats Bowl,280,10,45,6,8,5,120,vegetarian,Breakfast,88,22,170,62,21.45,normal,none,2130,74.4,88.0
+Oats Bowl,280,10,45,6,8,5,120,vegetarian,Breakfast,88,35,168,78,27.64,overweight,diabetes,1941,109.2,98.0
+Oats Bowl,280,10,45,6,8,5,120,vegetarian,Breakfast,88,42,172,85,28.73,overweight,bp,2022,102.0,98.0
+Oats Bowl,280,10,45,6,8,5,120,vegetarian,Breakfast,88,50,165,92,33.79,obese,obesity,2003,128.8,94.0
+Oats Bowl,280,10,45,6,8,5,120,vegetarian,Breakfast,88,56,170,80,27.68,overweight,heart,1843,88.0,100
+Oats Bowl,280,10,45,6,8,5,120,vegetarian,Breakfast,88,19,175,55,17.96,underweight,underweight,2348,88.0,88.0
+Oats Bowl,280,10,45,6,8,5,120,vegetarian,Breakfast,88,28,178,72,22.72,normal,muscle_gain,2542,115.2,88.0
+Sprouts Salad,190,14,20,4,10,3,110,vegan,Dinner,93,22,170,62,21.45,normal,none,2130,74.4,93.0
+Sprouts Salad,190,14,20,4,10,3,110,vegan,Dinner,93,35,168,78,27.64,overweight,diabetes,1941,109.2,100
+Sprouts Salad,190,14,20,4,10,3,110,vegan,Dinner,93,42,172,85,28.73,overweight,bp,2022,102.0,100
+Sprouts Salad,190,14,20,4,10,3,110,vegan,Dinner,93,50,165,92,33.79,obese,obesity,2003,128.8,99.0
+Sprouts Salad,190,14,20,4,10,3,110,vegan,Dinner,93,56,170,80,27.68,overweight,heart,1843,88.0,100
+Sprouts Salad,190,14,20,4,10,3,110,vegan,Dinner,93,19,175,55,17.96,underweight,underweight,2348,88.0,100
+Sprouts Salad,190,14,20,4,10,3,110,vegan,Dinner,93,28,178,72,22.72,normal,muscle_gain,2542,115.2,85.0
+Grilled Chicken Salad,350,32,12,14,7,3,180,high-protein,Lunch,91,22,170,62,21.45,normal,none,2130,74.4,91.0
+Grilled Chicken Salad,350,32,12,14,7,3,180,high-protein,Lunch,91,35,168,78,27.64,overweight,diabetes,1941,109.2,100
+Grilled Chicken Salad,350,32,12,14,7,3,180,high-protein,Lunch,91,42,172,85,28.73,overweight,bp,2022,102.0,100
+Grilled Chicken Salad,350,32,12,14,7,3,180,high-protein,Lunch,91,50,165,92,33.79,obese,obesity,2003,128.8,100
+Grilled Chicken Salad,350,32,12,14,7,3,180,high-protein,Lunch,91,56,170,80,27.68,overweight,heart,1843,88.0,100
+Grilled Chicken Salad,350,32,12,14,7,3,180,high-protein,Lunch,91,19,175,55,17.96,underweight,underweight,2348,88.0,100
+Grilled Chicken Salad,350,32,12,14,7,3,180,high-protein,Lunch,91,28,178,72,22.72,normal,muscle_gain,2542,115.2,100
+Paneer Wrap,410,22,34,16,4,6,320,vegetarian,Lunch,76,22,170,62,21.45,normal,none,2130,74.4,76.0
+Paneer Wrap,410,22,34,16,4,6,320,vegetarian,Lunch,76,35,168,78,27.64,overweight,diabetes,1941,109.2,76.0
+Paneer Wrap,410,22,34,16,4,6,320,vegetarian,Lunch,76,42,172,85,28.73,overweight,bp,2022,102.0,76.0
+Paneer Wrap,410,22,34,16,4,6,320,vegetarian,Lunch,76,50,165,92,33.79,obese,obesity,2003,128.8,86.0
+Paneer Wrap,410,22,34,16,4,6,320,vegetarian,Lunch,76,56,170,80,27.68,overweight,heart,1843,88.0,56.0
+Paneer Wrap,410,22,34,16,4,6,320,vegetarian,Lunch,76,19,175,55,17.96,underweight,underweight,2348,88.0,96.0
+Paneer Wrap,410,22,34,16,4,6,320,vegetarian,Lunch,76,28,178,72,22.72,normal,muscle_gain,2542,115.2,96.0
+Fruit Yogurt Bowl,260,11,35,7,5,18,90,vegetarian,Breakfast,72,22,170,62,21.45,normal,none,2130,74.4,72.0
+Fruit Yogurt Bowl,260,11,35,7,5,18,90,vegetarian,Breakfast,72,35,168,78,27.64,overweight,diabetes,1941,109.2,57.0
+Fruit Yogurt Bowl,260,11,35,7,5,18,90,vegetarian,Breakfast,72,42,172,85,28.73,overweight,bp,2022,102.0,82.0
+Fruit Yogurt Bowl,260,11,35,7,5,18,90,vegetarian,Breakfast,72,50,165,92,33.79,obese,obesity,2003,128.8,68.0
+Fruit Yogurt Bowl,260,11,35,7,5,18,90,vegetarian,Breakfast,72,56,170,80,27.68,overweight,heart,1843,88.0,88.0
+Fruit Yogurt Bowl,260,11,35,7,5,18,90,vegetarian,Breakfast,72,19,175,55,17.96,underweight,underweight,2348,88.0,72.0
+Fruit Yogurt Bowl,260,11,35,7,5,18,90,vegetarian,Breakfast,72,28,178,72,22.72,normal,muscle_gain,2542,115.2,72.0
+Veg Biryani,520,12,68,20,5,4,420,vegetarian,Lunch,62,22,170,62,21.45,normal,none,2130,74.4,62.0
+Veg Biryani,520,12,68,20,5,4,420,vegetarian,Lunch,62,35,168,78,27.64,overweight,diabetes,1941,109.2,72.0
+Veg Biryani,520,12,68,20,5,4,420,vegetarian,Lunch,62,42,172,85,28.73,overweight,bp,2022,102.0,29.0
+Veg Biryani,520,12,68,20,5,4,420,vegetarian,Lunch,62,50,165,92,33.79,obese,obesity,2003,128.8,38.0
+Veg Biryani,520,12,68,20,5,4,420,vegetarian,Lunch,62,56,170,80,27.68,overweight,heart,1843,88.0,35.0
+Veg Biryani,520,12,68,20,5,4,420,vegetarian,Lunch,62,19,175,55,17.96,underweight,underweight,2348,88.0,82.0
+Veg Biryani,520,12,68,20,5,4,420,vegetarian,Lunch,62,28,178,72,22.72,normal,muscle_gain,2542,115.2,62.0
+Tofu Stir Fry,330,24,20,12,6,4,210,vegan,Dinner,86,22,170,62,21.45,normal,none,2130,74.4,86.0
+Tofu Stir Fry,330,24,20,12,6,4,210,vegan,Dinner,86,35,168,78,27.64,overweight,diabetes,1941,109.2,96.0
+Tofu Stir Fry,330,24,20,12,6,4,210,vegan,Dinner,86,42,172,85,28.73,overweight,bp,2022,102.0,86.0
+Tofu Stir Fry,330,24,20,12,6,4,210,vegan,Dinner,86,50,165,92,33.79,obese,obesity,2003,128.8,100
+Tofu Stir Fry,330,24,20,12,6,4,210,vegan,Dinner,86,56,170,80,27.68,overweight,heart,1843,88.0,100
+Tofu Stir Fry,330,24,20,12,6,4,210,vegan,Dinner,86,19,175,55,17.96,underweight,underweight,2348,88.0,94.0
+Tofu Stir Fry,330,24,20,12,6,4,210,vegan,Dinner,86,28,178,72,22.72,normal,muscle_gain,2542,115.2,100
+Burger and Fries,780,18,72,42,3,8,950,high-protein,Dinner,30,22,170,62,21.45,normal,none,2130,74.4,30.0
+Burger and Fries,780,18,72,42,3,8,950,high-protein,Dinner,30,35,168,78,27.64,overweight,diabetes,1941,109.2,22.0
+Burger and Fries,780,18,72,42,3,8,950,high-protein,Dinner,30,42,172,85,28.73,overweight,bp,2022,102.0,0
+Burger and Fries,780,18,72,42,3,8,950,high-protein,Dinner,30,50,165,92,33.79,obese,obesity,2003,128.8,10.0
+Burger and Fries,780,18,72,42,3,8,950,high-protein,Dinner,30,56,170,80,27.68,overweight,heart,1843,88.0,0
+Burger and Fries,780,18,72,42,3,8,950,high-protein,Dinner,30,19,175,55,17.96,underweight,underweight,2348,88.0,50.0
+Burger and Fries,780,18,72,42,3,8,950,high-protein,Dinner,30,28,178,72,22.72,normal,muscle_gain,2542,115.2,30.0
+Poha,250,6,40,5,4,3,200,vegetarian,Breakfast,80,22,170,62,21.45,normal,none,2130,74.4,80.0
+Poha,250,6,40,5,4,3,200,vegetarian,Breakfast,80,35,168,78,27.64,overweight,diabetes,1941,109.2,80.0
+Poha,250,6,40,5,4,3,200,vegetarian,Breakfast,80,42,172,85,28.73,overweight,bp,2022,102.0,80.0
+Poha,250,6,40,5,4,3,200,vegetarian,Breakfast,80,50,165,92,33.79,obese,obesity,2003,128.8,80.0
+Poha,250,6,40,5,4,3,200,vegetarian,Breakfast,80,56,170,80,27.68,overweight,heart,1843,88.0,80.0
+Poha,250,6,40,5,4,3,200,vegetarian,Breakfast,80,19,175,55,17.96,underweight,underweight,2348,88.0,80.0
+Poha,250,6,40,5,4,3,200,vegetarian,Breakfast,80,28,178,72,22.72,normal,muscle_gain,2542,115.2,80.0
+Upma,270,7,42,8,5,4,210,vegetarian,Breakfast,78,22,170,62,21.45,normal,none,2130,74.4,78.0
+Upma,270,7,42,8,5,4,210,vegetarian,Breakfast,78,35,168,78,27.64,overweight,diabetes,1941,109.2,88.0
+Upma,270,7,42,8,5,4,210,vegetarian,Breakfast,78,42,172,85,28.73,overweight,bp,2022,102.0,78.0
+Upma,270,7,42,8,5,4,210,vegetarian,Breakfast,78,50,165,92,33.79,obese,obesity,2003,128.8,84.0
+Upma,270,7,42,8,5,4,210,vegetarian,Breakfast,78,56,170,80,27.68,overweight,heart,1843,88.0,94.0
+Upma,270,7,42,8,5,4,210,vegetarian,Breakfast,78,19,175,55,17.96,underweight,underweight,2348,88.0,78.0
+Upma,270,7,42,8,5,4,210,vegetarian,Breakfast,78,28,178,72,22.72,normal,muscle_gain,2542,115.2,78.0
+Boiled Eggs,155,13,1,11,0,1,120,high-protein,Breakfast,90,22,170,62,21.45,normal,none,2130,74.4,90.0
+Boiled Eggs,155,13,1,11,0,1,120,high-protein,Breakfast,90,35,168,78,27.64,overweight,diabetes,1941,109.2,90.0
+Boiled Eggs,155,13,1,11,0,1,120,high-protein,Breakfast,90,42,172,85,28.73,overweight,bp,2022,102.0,100
+Boiled Eggs,155,13,1,11,0,1,120,high-protein,Breakfast,90,50,165,92,33.79,obese,obesity,2003,128.8,90.0
+Boiled Eggs,155,13,1,11,0,1,120,high-protein,Breakfast,90,56,170,80,27.68,overweight,heart,1843,88.0,90.0
+Boiled Eggs,155,13,1,11,0,1,120,high-protein,Breakfast,90,19,175,55,17.96,underweight,underweight,2348,88.0,98.0
+Boiled Eggs,155,13,1,11,0,1,120,high-protein,Breakfast,90,28,178,72,22.72,normal,muscle_gain,2542,115.2,82.0
+Avocado Toast,320,8,30,18,6,2,180,vegan,Breakfast,85,22,170,62,21.45,normal,none,2130,74.4,85.0
+Avocado Toast,320,8,30,18,6,2,180,vegan,Breakfast,85,35,168,78,27.64,overweight,diabetes,1941,109.2,95.0
+Avocado Toast,320,8,30,18,6,2,180,vegan,Breakfast,85,42,172,85,28.73,overweight,bp,2022,102.0,95.0
+Avocado Toast,320,8,30,18,6,2,180,vegan,Breakfast,85,50,165,92,33.79,obese,obesity,2003,128.8,91.0
+Avocado Toast,320,8,30,18,6,2,180,vegan,Breakfast,85,56,170,80,27.68,overweight,heart,1843,88.0,81.0
+Avocado Toast,320,8,30,18,6,2,180,vegan,Breakfast,85,19,175,55,17.96,underweight,underweight,2348,88.0,85.0
+Avocado Toast,320,8,30,18,6,2,180,vegan,Breakfast,85,28,178,72,22.72,normal,muscle_gain,2542,115.2,85.0
+Smoothie Bowl,300,9,50,7,6,20,100,vegetarian,Breakfast,70,22,170,62,21.45,normal,none,2130,74.4,70.0
+Smoothie Bowl,300,9,50,7,6,20,100,vegetarian,Breakfast,70,35,168,78,27.64,overweight,diabetes,1941,109.2,55.0
+Smoothie Bowl,300,9,50,7,6,20,100,vegetarian,Breakfast,70,42,172,85,28.73,overweight,bp,2022,102.0,80.0
+Smoothie Bowl,300,9,50,7,6,20,100,vegetarian,Breakfast,70,50,165,92,33.79,obese,obesity,2003,128.8,66.0
+Smoothie Bowl,300,9,50,7,6,20,100,vegetarian,Breakfast,70,56,170,80,27.68,overweight,heart,1843,88.0,86.0
+Smoothie Bowl,300,9,50,7,6,20,100,vegetarian,Breakfast,70,19,175,55,17.96,underweight,underweight,2348,88.0,70.0
+Smoothie Bowl,300,9,50,7,6,20,100,vegetarian,Breakfast,70,28,178,72,22.72,normal,muscle_gain,2542,115.2,70.0
+Brown Rice + Dal,400,15,60,10,8,3,220,vegetarian,Lunch,84,22,170,62,21.45,normal,none,2130,74.4,84.0
+Brown Rice + Dal,400,15,60,10,8,3,220,vegetarian,Lunch,84,35,168,78,27.64,overweight,diabetes,1941,109.2,94.0
+Brown Rice + Dal,400,15,60,10,8,3,220,vegetarian,Lunch,84,42,172,85,28.73,overweight,bp,2022,102.0,84.0
+Brown Rice + Dal,400,15,60,10,8,3,220,vegetarian,Lunch,84,50,165,92,33.79,obese,obesity,2003,128.8,100
+Brown Rice + Dal,400,15,60,10,8,3,220,vegetarian,Lunch,84,56,170,80,27.68,overweight,heart,1843,88.0,100
+Brown Rice + Dal,400,15,60,10,8,3,220,vegetarian,Lunch,84,19,175,55,17.96,underweight,underweight,2348,88.0,100
+Brown Rice + Dal,400,15,60,10,8,3,220,vegetarian,Lunch,84,28,178,72,22.72,normal,muscle_gain,2542,115.2,84.0
+Chicken Curry + Rice,600,28,55,25,4,5,400,high-protein,Lunch,70,22,170,62,21.45,normal,none,2130,74.4,70.0
+Chicken Curry + Rice,600,28,55,25,4,5,400,high-protein,Lunch,70,35,168,78,27.64,overweight,diabetes,1941,109.2,62.0
+Chicken Curry + Rice,600,28,55,25,4,5,400,high-protein,Lunch,70,42,172,85,28.73,overweight,bp,2022,102.0,62.0
+Chicken Curry + Rice,600,28,55,25,4,5,400,high-protein,Lunch,70,50,165,92,33.79,obese,obesity,2003,128.8,50.0
+Chicken Curry + Rice,600,28,55,25,4,5,400,high-protein,Lunch,70,56,170,80,27.68,overweight,heart,1843,88.0,27.0
+Chicken Curry + Rice,600,28,55,25,4,5,400,high-protein,Lunch,70,19,175,55,17.96,underweight,underweight,2348,88.0,90.0
+Chicken Curry + Rice,600,28,55,25,4,5,400,high-protein,Lunch,70,28,178,72,22.72,normal,muscle_gain,2542,115.2,90.0
+Quinoa Salad,350,14,40,12,9,4,150,vegan,Lunch,92,22,170,62,21.45,normal,none,2130,74.4,92.0
+Quinoa Salad,350,14,40,12,9,4,150,vegan,Lunch,92,35,168,78,27.64,overweight,diabetes,1941,109.2,100
+Quinoa Salad,350,14,40,12,9,4,150,vegan,Lunch,92,42,172,85,28.73,overweight,bp,2022,102.0,100
+Quinoa Salad,350,14,40,12,9,4,150,vegan,Lunch,92,50,165,92,33.79,obese,obesity,2003,128.8,98.0
+Quinoa Salad,350,14,40,12,9,4,150,vegan,Lunch,92,56,170,80,27.68,overweight,heart,1843,88.0,100
+Quinoa Salad,350,14,40,12,9,4,150,vegan,Lunch,92,19,175,55,17.96,underweight,underweight,2348,88.0,100
+Quinoa Salad,350,14,40,12,9,4,150,vegan,Lunch,92,28,178,72,22.72,normal,muscle_gain,2542,115.2,92.0
+Rajma Chawal,520,18,75,15,10,6,300,vegetarian,Lunch,82,22,170,62,21.45,normal,none,2130,74.4,82.0
+Rajma Chawal,520,18,75,15,10,6,300,vegetarian,Lunch,82,35,168,78,27.64,overweight,diabetes,1941,109.2,92.0
+Rajma Chawal,520,18,75,15,10,6,300,vegetarian,Lunch,82,42,172,85,28.73,overweight,bp,2022,102.0,82.0
+Rajma Chawal,520,18,75,15,10,6,300,vegetarian,Lunch,82,50,165,92,33.79,obese,obesity,2003,128.8,76.0
+Rajma Chawal,520,18,75,15,10,6,300,vegetarian,Lunch,82,56,170,80,27.68,overweight,heart,1843,88.0,98.0
+Rajma Chawal,520,18,75,15,10,6,300,vegetarian,Lunch,82,19,175,55,17.96,underweight,underweight,2348,88.0,100
+Rajma Chawal,520,18,75,15,10,6,300,vegetarian,Lunch,82,28,178,72,22.72,normal,muscle_gain,2542,115.2,82.0
+Fish Curry,480,30,20,28,3,2,350,high-protein,Lunch,88,22,170,62,21.45,normal,none,2130,74.4,88.0
+Fish Curry,480,30,20,28,3,2,350,high-protein,Lunch,88,35,168,78,27.64,overweight,diabetes,1941,109.2,88.0
+Fish Curry,480,30,20,28,3,2,350,high-protein,Lunch,88,42,172,85,28.73,overweight,bp,2022,102.0,80.0
+Fish Curry,480,30,20,28,3,2,350,high-protein,Lunch,88,50,165,92,33.79,obese,obesity,2003,128.8,98.0
+Fish Curry,480,30,20,28,3,2,350,high-protein,Lunch,88,56,170,80,27.68,overweight,heart,1843,88.0,68.0
+Fish Curry,480,30,20,28,3,2,350,high-protein,Lunch,88,19,175,55,17.96,underweight,underweight,2348,88.0,100
+Fish Curry,480,30,20,28,3,2,350,high-protein,Lunch,88,28,178,72,22.72,normal,muscle_gain,2542,115.2,100
+Roti + Sabzi,350,10,50,10,7,4,250,vegetarian,Dinner,80,22,170,62,21.45,normal,none,2130,74.4,80.0
+Roti + Sabzi,350,10,50,10,7,4,250,vegetarian,Dinner,80,35,168,78,27.64,overweight,diabetes,1941,109.2,90.0
+Roti + Sabzi,350,10,50,10,7,4,250,vegetarian,Dinner,80,42,172,85,28.73,overweight,bp,2022,102.0,80.0
+Roti + Sabzi,350,10,50,10,7,4,250,vegetarian,Dinner,80,50,165,92,33.79,obese,obesity,2003,128.8,86.0
+Roti + Sabzi,350,10,50,10,7,4,250,vegetarian,Dinner,80,56,170,80,27.68,overweight,heart,1843,88.0,96.0
+Roti + Sabzi,350,10,50,10,7,4,250,vegetarian,Dinner,80,19,175,55,17.96,underweight,underweight,2348,88.0,92.0
+Roti + Sabzi,350,10,50,10,7,4,250,vegetarian,Dinner,80,28,178,72,22.72,normal,muscle_gain,2542,115.2,80.0
+Dal Khichdi,300,12,45,8,6,3,180,vegetarian,Dinner,85,22,170,62,21.45,normal,none,2130,74.4,85.0
+Dal Khichdi,300,12,45,8,6,3,180,vegetarian,Dinner,85,35,168,78,27.64,overweight,diabetes,1941,109.2,95.0
+Dal Khichdi,300,12,45,8,6,3,180,vegetarian,Dinner,85,42,172,85,28.73,overweight,bp,2022,102.0,95.0
+Dal Khichdi,300,12,45,8,6,3,180,vegetarian,Dinner,85,50,165,92,33.79,obese,obesity,2003,128.8,91.0
+Dal Khichdi,300,12,45,8,6,3,180,vegetarian,Dinner,85,56,170,80,27.68,overweight,heart,1843,88.0,100
+Dal Khichdi,300,12,45,8,6,3,180,vegetarian,Dinner,85,19,175,55,17.96,underweight,underweight,2348,88.0,93.0
+Dal Khichdi,300,12,45,8,6,3,180,vegetarian,Dinner,85,28,178,72,22.72,normal,muscle_gain,2542,115.2,85.0
+Chicken Soup,220,20,10,8,2,2,150,high-protein,Dinner,90,22,170,62,21.45,normal,none,2130,74.4,90.0
+Chicken Soup,220,20,10,8,2,2,150,high-protein,Dinner,90,35,168,78,27.64,overweight,diabetes,1941,109.2,90.0
+Chicken Soup,220,20,10,8,2,2,150,high-protein,Dinner,90,42,172,85,28.73,overweight,bp,2022,102.0,100
+Chicken Soup,220,20,10,8,2,2,150,high-protein,Dinner,90,50,165,92,33.79,obese,obesity,2003,128.8,100
+Chicken Soup,220,20,10,8,2,2,150,high-protein,Dinner,90,56,170,80,27.68,overweight,heart,1843,88.0,90.0
+Chicken Soup,220,20,10,8,2,2,150,high-protein,Dinner,90,19,175,55,17.96,underweight,underweight,2348,88.0,98.0
+Chicken Soup,220,20,10,8,2,2,150,high-protein,Dinner,90,28,178,72,22.72,normal,muscle_gain,2542,115.2,100
+Vegetable Soup,180,6,25,5,4,4,120,vegan,Dinner,88,22,170,62,21.45,normal,none,2130,74.4,88.0
+Vegetable Soup,180,6,25,5,4,4,120,vegan,Dinner,88,35,168,78,27.64,overweight,diabetes,1941,109.2,88.0
+Vegetable Soup,180,6,25,5,4,4,120,vegan,Dinner,88,42,172,85,28.73,overweight,bp,2022,102.0,98.0
+Vegetable Soup,180,6,25,5,4,4,120,vegan,Dinner,88,50,165,92,33.79,obese,obesity,2003,128.8,88.0
+Vegetable Soup,180,6,25,5,4,4,120,vegan,Dinner,88,56,170,80,27.68,overweight,heart,1843,88.0,88.0
+Vegetable Soup,180,6,25,5,4,4,120,vegan,Dinner,88,19,175,55,17.96,underweight,underweight,2348,88.0,88.0
+Vegetable Soup,180,6,25,5,4,4,120,vegan,Dinner,88,28,178,72,22.72,normal,muscle_gain,2542,115.2,80.0
+Egg Omelette,250,18,3,18,1,1,200,high-protein,Dinner,87,22,170,62,21.45,normal,none,2130,74.4,87.0
+Egg Omelette,250,18,3,18,1,1,200,high-protein,Dinner,87,35,168,78,27.64,overweight,diabetes,1941,109.2,87.0
+Egg Omelette,250,18,3,18,1,1,200,high-protein,Dinner,87,42,172,85,28.73,overweight,bp,2022,102.0,87.0
+Egg Omelette,250,18,3,18,1,1,200,high-protein,Dinner,87,50,165,92,33.79,obese,obesity,2003,128.8,97.0
+Egg Omelette,250,18,3,18,1,1,200,high-protein,Dinner,87,56,170,80,27.68,overweight,heart,1843,88.0,67.0
+Egg Omelette,250,18,3,18,1,1,200,high-protein,Dinner,87,19,175,55,17.96,underweight,underweight,2348,88.0,95.0
+Egg Omelette,250,18,3,18,1,1,200,high-protein,Dinner,87,28,178,72,22.72,normal,muscle_gain,2542,115.2,87.0
+Pasta Alfredo,650,20,70,30,3,5,500,vegetarian,Lunch,50,22,170,62,21.45,normal,none,2130,74.4,50.0
+Pasta Alfredo,650,20,70,30,3,5,500,vegetarian,Lunch,50,35,168,78,27.64,overweight,diabetes,1941,109.2,42.0
+Pasta Alfredo,650,20,70,30,3,5,500,vegetarian,Lunch,50,42,172,85,28.73,overweight,bp,2022,102.0,17.0
+Pasta Alfredo,650,20,70,30,3,5,500,vegetarian,Lunch,50,50,165,92,33.79,obese,obesity,2003,128.8,30.0
+Pasta Alfredo,650,20,70,30,3,5,500,vegetarian,Lunch,50,56,170,80,27.68,overweight,heart,1843,88.0,7.0
+Pasta Alfredo,650,20,70,30,3,5,500,vegetarian,Lunch,50,19,175,55,17.96,underweight,underweight,2348,88.0,70.0
+Pasta Alfredo,650,20,70,30,3,5,500,vegetarian,Lunch,50,28,178,72,22.72,normal,muscle_gain,2542,115.2,70.0
+Fried Rice,550,12,80,20,4,4,600,vegetarian,Lunch,55,22,170,62,21.45,normal,none,2130,74.4,55.0
+Fried Rice,550,12,80,20,4,4,600,vegetarian,Lunch,55,35,168,78,27.64,overweight,diabetes,1941,109.2,55.0
+Fried Rice,550,12,80,20,4,4,600,vegetarian,Lunch,55,42,172,85,28.73,overweight,bp,2022,102.0,22.0
+Fried Rice,550,12,80,20,4,4,600,vegetarian,Lunch,55,50,165,92,33.79,obese,obesity,2003,128.8,25.0
+Fried Rice,550,12,80,20,4,4,600,vegetarian,Lunch,55,56,170,80,27.68,overweight,heart,1843,88.0,12.0
+Fried Rice,550,12,80,20,4,4,600,vegetarian,Lunch,55,19,175,55,17.96,underweight,underweight,2348,88.0,75.0
+Fried Rice,550,12,80,20,4,4,600,vegetarian,Lunch,55,28,178,72,22.72,normal,muscle_gain,2542,115.2,55.0
+Pizza Slice,700,25,85,35,3,6,800,vegetarian,Dinner,40,22,170,62,21.45,normal,none,2130,74.4,40.0
+Pizza Slice,700,25,85,35,3,6,800,vegetarian,Dinner,40,35,168,78,27.64,overweight,diabetes,1941,109.2,32.0
+Pizza Slice,700,25,85,35,3,6,800,vegetarian,Dinner,40,42,172,85,28.73,overweight,bp,2022,102.0,7.0
+Pizza Slice,700,25,85,35,3,6,800,vegetarian,Dinner,40,50,165,92,33.79,obese,obesity,2003,128.8,20.0
+Pizza Slice,700,25,85,35,3,6,800,vegetarian,Dinner,40,56,170,80,27.68,overweight,heart,1843,88.0,0
+Pizza Slice,700,25,85,35,3,6,800,vegetarian,Dinner,40,19,175,55,17.96,underweight,underweight,2348,88.0,60.0
+Pizza Slice,700,25,85,35,3,6,800,vegetarian,Dinner,40,28,178,72,22.72,normal,muscle_gain,2542,115.2,60.0
+Chicken Wings,600,35,10,40,2,2,700,high-protein,Dinner,45,22,170,62,21.45,normal,none,2130,74.4,45.0
+Chicken Wings,600,35,10,40,2,2,700,high-protein,Dinner,45,35,168,78,27.64,overweight,diabetes,1941,109.2,37.0
+Chicken Wings,600,35,10,40,2,2,700,high-protein,Dinner,45,42,172,85,28.73,overweight,bp,2022,102.0,12.0
+Chicken Wings,600,35,10,40,2,2,700,high-protein,Dinner,45,50,165,92,33.79,obese,obesity,2003,128.8,25.0
+Chicken Wings,600,35,10,40,2,2,700,high-protein,Dinner,45,56,170,80,27.68,overweight,heart,1843,88.0,2.0
+Chicken Wings,600,35,10,40,2,2,700,high-protein,Dinner,45,19,175,55,17.96,underweight,underweight,2348,88.0,65.0
+Chicken Wings,600,35,10,40,2,2,700,high-protein,Dinner,45,28,178,72,22.72,normal,muscle_gain,2542,115.2,65.0
+Milkshake,500,12,65,20,2,45,200,vegetarian,Breakfast,35,22,170,62,21.45,normal,none,2130,74.4,35.0
+Milkshake,500,12,65,20,2,45,200,vegetarian,Breakfast,35,35,168,78,27.64,overweight,diabetes,1941,109.2,10.0
+Milkshake,500,12,65,20,2,45,200,vegetarian,Breakfast,35,42,172,85,28.73,overweight,bp,2022,102.0,27.0
+Milkshake,500,12,65,20,2,45,200,vegetarian,Breakfast,35,50,165,92,33.79,obese,obesity,2003,128.8,25.0
+Milkshake,500,12,65,20,2,45,200,vegetarian,Breakfast,35,56,170,80,27.68,overweight,heart,1843,88.0,15.0
+Milkshake,500,12,65,20,2,45,200,vegetarian,Breakfast,35,19,175,55,17.96,underweight,underweight,2348,88.0,55.0
+Milkshake,500,12,65,20,2,45,200,vegetarian,Breakfast,35,28,178,72,22.72,normal,muscle_gain,2542,115.2,35.0
+Protein Shake,220,25,10,5,2,2,100,high-protein,Breakfast,92,22,170,62,21.45,normal,none,2130,74.4,92.0
+Protein Shake,220,25,10,5,2,2,100,high-protein,Breakfast,92,35,168,78,27.64,overweight,diabetes,1941,109.2,92.0
+Protein Shake,220,25,10,5,2,2,100,high-protein,Breakfast,92,42,172,85,28.73,overweight,bp,2022,102.0,100
+Protein Shake,220,25,10,5,2,2,100,high-protein,Breakfast,92,50,165,92,33.79,obese,obesity,2003,128.8,100
+Protein Shake,220,25,10,5,2,2,100,high-protein,Breakfast,92,56,170,80,27.68,overweight,heart,1843,88.0,92.0
+Protein Shake,220,25,10,5,2,2,100,high-protein,Breakfast,92,19,175,55,17.96,underweight,underweight,2348,88.0,100
+Protein Shake,220,25,10,5,2,2,100,high-protein,Breakfast,92,28,178,72,22.72,normal,muscle_gain,2542,115.2,100
+Chia Pudding,280,8,35,12,10,8,90,vegan,Breakfast,89,22,170,62,21.45,normal,none,2130,74.4,89.0
+Chia Pudding,280,8,35,12,10,8,90,vegan,Breakfast,89,35,168,78,27.64,overweight,diabetes,1941,109.2,99.0
+Chia Pudding,280,8,35,12,10,8,90,vegan,Breakfast,89,42,172,85,28.73,overweight,bp,2022,102.0,99.0
+Chia Pudding,280,8,35,12,10,8,90,vegan,Breakfast,89,50,165,92,33.79,obese,obesity,2003,128.8,95.0
+Chia Pudding,280,8,35,12,10,8,90,vegan,Breakfast,89,56,170,80,27.68,overweight,heart,1843,88.0,100
+Chia Pudding,280,8,35,12,10,8,90,vegan,Breakfast,89,19,175,55,17.96,underweight,underweight,2348,88.0,89.0
+Chia Pudding,280,8,35,12,10,8,90,vegan,Breakfast,89,28,178,72,22.72,normal,muscle_gain,2542,115.2,89.0
+Idli Sambar,300,10,50,5,6,4,200,vegetarian,Breakfast,86,22,170,62,21.45,normal,none,2130,74.4,86.0
+Idli Sambar,300,10,50,5,6,4,200,vegetarian,Breakfast,86,35,168,78,27.64,overweight,diabetes,1941,109.2,96.0
+Idli Sambar,300,10,50,5,6,4,200,vegetarian,Breakfast,86,42,172,85,28.73,overweight,bp,2022,102.0,86.0
+Idli Sambar,300,10,50,5,6,4,200,vegetarian,Breakfast,86,50,165,92,33.79,obese,obesity,2003,128.8,92.0
+Idli Sambar,300,10,50,5,6,4,200,vegetarian,Breakfast,86,56,170,80,27.68,overweight,heart,1843,88.0,100
+Idli Sambar,300,10,50,5,6,4,200,vegetarian,Breakfast,86,19,175,55,17.96,underweight,underweight,2348,88.0,86.0
+Idli Sambar,300,10,50,5,6,4,200,vegetarian,Breakfast,86,28,178,72,22.72,normal,muscle_gain,2542,115.2,86.0
+Dosa,350,8,55,10,4,3,250,vegetarian,Breakfast,82,22,170,62,21.45,normal,none,2130,74.4,82.0
+Dosa,350,8,55,10,4,3,250,vegetarian,Breakfast,82,35,168,78,27.64,overweight,diabetes,1941,109.2,82.0
+Dosa,350,8,55,10,4,3,250,vegetarian,Breakfast,82,42,172,85,28.73,overweight,bp,2022,102.0,82.0
+Dosa,350,8,55,10,4,3,250,vegetarian,Breakfast,82,50,165,92,33.79,obese,obesity,2003,128.8,82.0
+Dosa,350,8,55,10,4,3,250,vegetarian,Breakfast,82,56,170,80,27.68,overweight,heart,1843,88.0,82.0
+Dosa,350,8,55,10,4,3,250,vegetarian,Breakfast,82,19,175,55,17.96,underweight,underweight,2348,88.0,94.0
+Dosa,350,8,55,10,4,3,250,vegetarian,Breakfast,82,28,178,72,22.72,normal,muscle_gain,2542,115.2,82.0
+Paratha + Curd,450,12,60,18,4,5,350,vegetarian,Breakfast,65,22,170,62,21.45,normal,none,2130,74.4,65.0
+Paratha + Curd,450,12,60,18,4,5,350,vegetarian,Breakfast,65,35,168,78,27.64,overweight,diabetes,1941,109.2,65.0
+Paratha + Curd,450,12,60,18,4,5,350,vegetarian,Breakfast,65,42,172,85,28.73,overweight,bp,2022,102.0,65.0
+Paratha + Curd,450,12,60,18,4,5,350,vegetarian,Breakfast,65,50,165,92,33.79,obese,obesity,2003,128.8,65.0
+Paratha + Curd,450,12,60,18,4,5,350,vegetarian,Breakfast,65,56,170,80,27.68,overweight,heart,1843,88.0,45.0
+Paratha + Curd,450,12,60,18,4,5,350,vegetarian,Breakfast,65,19,175,55,17.96,underweight,underweight,2348,88.0,85.0
+Paratha + Curd,450,12,60,18,4,5,350,vegetarian,Breakfast,65,28,178,72,22.72,normal,muscle_gain,2542,115.2,65.0
+Lentil Soup,250,14,30,6,8,3,150,vegan,Dinner,90,22,170,62,21.45,normal,none,2130,74.4,90.0
+Lentil Soup,250,14,30,6,8,3,150,vegan,Dinner,90,35,168,78,27.64,overweight,diabetes,1941,109.2,100
+Lentil Soup,250,14,30,6,8,3,150,vegan,Dinner,90,42,172,85,28.73,overweight,bp,2022,102.0,100
+Lentil Soup,250,14,30,6,8,3,150,vegan,Dinner,90,50,165,92,33.79,obese,obesity,2003,128.8,96.0
+Lentil Soup,250,14,30,6,8,3,150,vegan,Dinner,90,56,170,80,27.68,overweight,heart,1843,88.0,100
+Lentil Soup,250,14,30,6,8,3,150,vegan,Dinner,90,19,175,55,17.96,underweight,underweight,2348,88.0,98.0
+Lentil Soup,250,14,30,6,8,3,150,vegan,Dinner,90,28,178,72,22.72,normal,muscle_gain,2542,115.2,90.0
+Grilled Fish,300,28,5,18,1,1,180,high-protein,Dinner,92,22,170,62,21.45,normal,none,2130,74.4,92.0
+Grilled Fish,300,28,5,18,1,1,180,high-protein,Dinner,92,35,168,78,27.64,overweight,diabetes,1941,109.2,92.0
+Grilled Fish,300,28,5,18,1,1,180,high-protein,Dinner,92,42,172,85,28.73,overweight,bp,2022,102.0,100
+Grilled Fish,300,28,5,18,1,1,180,high-protein,Dinner,92,50,165,92,33.79,obese,obesity,2003,128.8,100
+Grilled Fish,300,28,5,18,1,1,180,high-protein,Dinner,92,56,170,80,27.68,overweight,heart,1843,88.0,72.0
+Grilled Fish,300,28,5,18,1,1,180,high-protein,Dinner,92,19,175,55,17.96,underweight,underweight,2348,88.0,100
+Grilled Fish,300,28,5,18,1,1,180,high-protein,Dinner,92,28,178,72,22.72,normal,muscle_gain,2542,115.2,100
+Stuffed Capsicum,280,10,35,9,7,5,200,vegetarian,Dinner,85,22,170,62,21.45,normal,none,2130,74.4,85.0
+Stuffed Capsicum,280,10,35,9,7,5,200,vegetarian,Dinner,85,35,168,78,27.64,overweight,diabetes,1941,109.2,95.0
+Stuffed Capsicum,280,10,35,9,7,5,200,vegetarian,Dinner,85,42,172,85,28.73,overweight,bp,2022,102.0,85.0
+Stuffed Capsicum,280,10,35,9,7,5,200,vegetarian,Dinner,85,50,165,92,33.79,obese,obesity,2003,128.8,91.0
+Stuffed Capsicum,280,10,35,9,7,5,200,vegetarian,Dinner,85,56,170,80,27.68,overweight,heart,1843,88.0,100
+Stuffed Capsicum,280,10,35,9,7,5,200,vegetarian,Dinner,85,19,175,55,17.96,underweight,underweight,2348,88.0,85.0
+Stuffed Capsicum,280,10,35,9,7,5,200,vegetarian,Dinner,85,28,178,72,22.72,normal,muscle_gain,2542,115.2,85.0
+Veg Noodles,480,10,70,18,4,6,600,vegetarian,Dinner,60,22,170,62,21.45,normal,none,2130,74.4,60.0
+Veg Noodles,480,10,70,18,4,6,600,vegetarian,Dinner,60,35,168,78,27.64,overweight,diabetes,1941,109.2,60.0
+Veg Noodles,480,10,70,18,4,6,600,vegetarian,Dinner,60,42,172,85,28.73,overweight,bp,2022,102.0,35.0
+Veg Noodles,480,10,70,18,4,6,600,vegetarian,Dinner,60,50,165,92,33.79,obese,obesity,2003,128.8,52.0
+Veg Noodles,480,10,70,18,4,6,600,vegetarian,Dinner,60,56,170,80,27.68,overweight,heart,1843,88.0,17.0
+Veg Noodles,480,10,70,18,4,6,600,vegetarian,Dinner,60,19,175,55,17.96,underweight,underweight,2348,88.0,72.0
+Veg Noodles,480,10,70,18,4,6,600,vegetarian,Dinner,60,28,178,72,22.72,normal,muscle_gain,2542,115.2,60.0
+Chicken Biryani,650,28,75,25,5,4,500,high-protein,Lunch,65,22,170,62,21.45,normal,none,2130,74.4,65.0
+Chicken Biryani,650,28,75,25,5,4,500,high-protein,Lunch,65,35,168,78,27.64,overweight,diabetes,1941,109.2,67.0
+Chicken Biryani,650,28,75,25,5,4,500,high-protein,Lunch,65,42,172,85,28.73,overweight,bp,2022,102.0,32.0
+Chicken Biryani,650,28,75,25,5,4,500,high-protein,Lunch,65,50,165,92,33.79,obese,obesity,2003,128.8,51.0
+Chicken Biryani,650,28,75,25,5,4,500,high-protein,Lunch,65,56,170,80,27.68,overweight,heart,1843,88.0,38.0
+Chicken Biryani,650,28,75,25,5,4,500,high-protein,Lunch,65,19,175,55,17.96,underweight,underweight,2348,88.0,85.0
+Chicken Biryani,650,28,75,25,5,4,500,high-protein,Lunch,65,28,178,72,22.72,normal,muscle_gain,2542,115.2,85.0
+Salad Bowl,200,8,20,6,7,4,120,vegan,Lunch,95,22,170,62,21.45,normal,none,2130,74.4,95.0
+Salad Bowl,200,8,20,6,7,4,120,vegan,Lunch,95,35,168,78,27.64,overweight,diabetes,1941,109.2,100
+Salad Bowl,200,8,20,6,7,4,120,vegan,Lunch,95,42,172,85,28.73,overweight,bp,2022,102.0,100
+Salad Bowl,200,8,20,6,7,4,120,vegan,Lunch,95,50,165,92,33.79,obese,obesity,2003,128.8,100
+Salad Bowl,200,8,20,6,7,4,120,vegan,Lunch,95,56,170,80,27.68,overweight,heart,1843,88.0,100
+Salad Bowl,200,8,20,6,7,4,120,vegan,Lunch,95,19,175,55,17.96,underweight,underweight,2348,88.0,95.0
+Salad Bowl,200,8,20,6,7,4,120,vegan,Lunch,95,28,178,72,22.72,normal,muscle_gain,2542,115.2,87.0
+Greek Yogurt,150,15,8,5,0,6,80,vegetarian,Breakfast,93,22,170,62,21.45,normal,none,2130,74.4,93.0
+Greek Yogurt,150,15,8,5,0,6,80,vegetarian,Breakfast,93,35,168,78,27.64,overweight,diabetes,1941,109.2,93.0
+Greek Yogurt,150,15,8,5,0,6,80,vegetarian,Breakfast,93,42,172,85,28.73,overweight,bp,2022,102.0,100
+Greek Yogurt,150,15,8,5,0,6,80,vegetarian,Breakfast,93,50,165,92,33.79,obese,obesity,2003,128.8,100
+Greek Yogurt,150,15,8,5,0,6,80,vegetarian,Breakfast,93,56,170,80,27.68,overweight,heart,1843,88.0,93.0
+Greek Yogurt,150,15,8,5,0,6,80,vegetarian,Breakfast,93,19,175,55,17.96,underweight,underweight,2348,88.0,100
+Greek Yogurt,150,15,8,5,0,6,80,vegetarian,Breakfast,93,28,178,72,22.72,normal,muscle_gain,2542,115.2,85.0
+Peanut Butter Sandwich,400,14,40,20,5,6,300,vegetarian,Breakfast,75,22,170,62,21.45,normal,none,2130,74.4,75.0
+Peanut Butter Sandwich,400,14,40,20,5,6,300,vegetarian,Breakfast,75,35,168,78,27.64,overweight,diabetes,1941,109.2,85.0
+Peanut Butter Sandwich,400,14,40,20,5,6,300,vegetarian,Breakfast,75,42,172,85,28.73,overweight,bp,2022,102.0,67.0
+Peanut Butter Sandwich,400,14,40,20,5,6,300,vegetarian,Breakfast,75,50,165,92,33.79,obese,obesity,2003,128.8,81.0
+Peanut Butter Sandwich,400,14,40,20,5,6,300,vegetarian,Breakfast,75,56,170,80,27.68,overweight,heart,1843,88.0,71.0
+Peanut Butter Sandwich,400,14,40,20,5,6,300,vegetarian,Breakfast,75,19,175,55,17.96,underweight,underweight,2348,88.0,95.0
+Peanut Butter Sandwich,400,14,40,20,5,6,300,vegetarian,Breakfast,75,28,178,72,22.72,normal,muscle_gain,2542,115.2,75.0
+Banana Shake,350,10,55,10,3,25,150,vegetarian,Breakfast,65,22,170,62,21.45,normal,none,2130,74.4,65.0
+Banana Shake,350,10,55,10,3,25,150,vegetarian,Breakfast,65,35,168,78,27.64,overweight,diabetes,1941,109.2,40.0
+Banana Shake,350,10,55,10,3,25,150,vegetarian,Breakfast,65,42,172,85,28.73,overweight,bp,2022,102.0,75.0
+Banana Shake,350,10,55,10,3,25,150,vegetarian,Breakfast,65,50,165,92,33.79,obese,obesity,2003,128.8,55.0
+Banana Shake,350,10,55,10,3,25,150,vegetarian,Breakfast,65,56,170,80,27.68,overweight,heart,1843,88.0,65.0
+Banana Shake,350,10,55,10,3,25,150,vegetarian,Breakfast,65,19,175,55,17.96,underweight,underweight,2348,88.0,77.0
+Banana Shake,350,10,55,10,3,25,150,vegetarian,Breakfast,65,28,178,72,22.72,normal,muscle_gain,2542,115.2,65.0
+Corn Salad,220,6,30,8,5,6,180,vegan,Lunch,88,22,170,62,21.45,normal,none,2130,74.4,88.0
+Corn Salad,220,6,30,8,5,6,180,vegan,Lunch,88,35,168,78,27.64,overweight,diabetes,1941,109.2,98.0
+Corn Salad,220,6,30,8,5,6,180,vegan,Lunch,88,42,172,85,28.73,overweight,bp,2022,102.0,98.0
+Corn Salad,220,6,30,8,5,6,180,vegan,Lunch,88,50,165,92,33.79,obese,obesity,2003,128.8,94.0
+Corn Salad,220,6,30,8,5,6,180,vegan,Lunch,88,56,170,80,27.68,overweight,heart,1843,88.0,100
+Corn Salad,220,6,30,8,5,6,180,vegan,Lunch,88,19,175,55,17.96,underweight,underweight,2348,88.0,88.0
+Corn Salad,220,6,30,8,5,6,180,vegan,Lunch,88,28,178,72,22.72,normal,muscle_gain,2542,115.2,80.0
+Chicken Sandwich,450,25,40,18,3,5,400,high-protein,Lunch,70,22,170,62,21.45,normal,none,2130,74.4,70.0
+Chicken Sandwich,450,25,40,18,3,5,400,high-protein,Lunch,70,35,168,78,27.64,overweight,diabetes,1941,109.2,70.0
+Chicken Sandwich,450,25,40,18,3,5,400,high-protein,Lunch,70,42,172,85,28.73,overweight,bp,2022,102.0,70.0
+Chicken Sandwich,450,25,40,18,3,5,400,high-protein,Lunch,70,50,165,92,33.79,obese,obesity,2003,128.8,72.0
+Chicken Sandwich,450,25,40,18,3,5,400,high-protein,Lunch,70,56,170,80,27.68,overweight,heart,1843,88.0,27.0
+Chicken Sandwich,450,25,40,18,3,5,400,high-protein,Lunch,70,19,175,55,17.96,underweight,underweight,2348,88.0,90.0
+Chicken Sandwich,450,25,40,18,3,5,400,high-protein,Lunch,70,28,178,72,22.72,normal,muscle_gain,2542,115.2,90.0
+Egg Fried Rice,550,20,70,22,3,4,600,high-protein,Lunch,60,22,170,62,21.45,normal,none,2130,74.4,60.0
+Egg Fried Rice,550,20,70,22,3,4,600,high-protein,Lunch,60,35,168,78,27.64,overweight,diabetes,1941,109.2,60.0
+Egg Fried Rice,550,20,70,22,3,4,600,high-protein,Lunch,60,42,172,85,28.73,overweight,bp,2022,102.0,27.0
+Egg Fried Rice,550,20,70,22,3,4,600,high-protein,Lunch,60,50,165,92,33.79,obese,obesity,2003,128.8,40.0
+Egg Fried Rice,550,20,70,22,3,4,600,high-protein,Lunch,60,56,170,80,27.68,overweight,heart,1843,88.0,17.0
+Egg Fried Rice,550,20,70,22,3,4,600,high-protein,Lunch,60,19,175,55,17.96,underweight,underweight,2348,88.0,80.0
+Egg Fried Rice,550,20,70,22,3,4,600,high-protein,Lunch,60,28,178,72,22.72,normal,muscle_gain,2542,115.2,80.0
+Vegetable Wrap,320,9,40,10,6,5,200,vegan,Lunch,85,22,170,62,21.45,normal,none,2130,74.4,85.0
+Vegetable Wrap,320,9,40,10,6,5,200,vegan,Lunch,85,35,168,78,27.64,overweight,diabetes,1941,109.2,95.0
+Vegetable Wrap,320,9,40,10,6,5,200,vegan,Lunch,85,42,172,85,28.73,overweight,bp,2022,102.0,85.0
+Vegetable Wrap,320,9,40,10,6,5,200,vegan,Lunch,85,50,165,92,33.79,obese,obesity,2003,128.8,91.0
+Vegetable Wrap,320,9,40,10,6,5,200,vegan,Lunch,85,56,170,80,27.68,overweight,heart,1843,88.0,100
+Vegetable Wrap,320,9,40,10,6,5,200,vegan,Lunch,85,19,175,55,17.96,underweight,underweight,2348,88.0,85.0
+Vegetable Wrap,320,9,40,10,6,5,200,vegan,Lunch,85,28,178,72,22.72,normal,muscle_gain,2542,115.2,85.0
+Tofu Salad,280,18,20,12,7,4,160,vegan,Lunch,90,22,170,62,21.45,normal,none,2130,74.4,90.0
+Tofu Salad,280,18,20,12,7,4,160,vegan,Lunch,90,35,168,78,27.64,overweight,diabetes,1941,109.2,100
+Tofu Salad,280,18,20,12,7,4,160,vegan,Lunch,90,42,172,85,28.73,overweight,bp,2022,102.0,100
+Tofu Salad,280,18,20,12,7,4,160,vegan,Lunch,90,50,165,92,33.79,obese,obesity,2003,128.8,100
+Tofu Salad,280,18,20,12,7,4,160,vegan,Lunch,90,56,170,80,27.68,overweight,heart,1843,88.0,100
+Tofu Salad,280,18,20,12,7,4,160,vegan,Lunch,90,19,175,55,17.96,underweight,underweight,2348,88.0,98.0
+Tofu Salad,280,18,20,12,7,4,160,vegan,Lunch,90,28,178,72,22.72,normal,muscle_gain,2542,115.2,90.0
+Paneer Salad,350,20,18,20,5,3,250,vegetarian,Lunch,82,22,170,62,21.45,normal,none,2130,74.4,82.0
+Paneer Salad,350,20,18,20,5,3,250,vegetarian,Lunch,82,35,168,78,27.64,overweight,diabetes,1941,109.2,92.0
+Paneer Salad,350,20,18,20,5,3,250,vegetarian,Lunch,82,42,172,85,28.73,overweight,bp,2022,102.0,74.0
+Paneer Salad,350,20,18,20,5,3,250,vegetarian,Lunch,82,50,165,92,33.79,obese,obesity,2003,128.8,98.0
+Paneer Salad,350,20,18,20,5,3,250,vegetarian,Lunch,82,56,170,80,27.68,overweight,heart,1843,88.0,78.0
+Paneer Salad,350,20,18,20,5,3,250,vegetarian,Lunch,82,19,175,55,17.96,underweight,underweight,2348,88.0,100
+Paneer Salad,350,20,18,20,5,3,250,vegetarian,Lunch,82,28,178,72,22.72,normal,muscle_gain,2542,115.2,100
