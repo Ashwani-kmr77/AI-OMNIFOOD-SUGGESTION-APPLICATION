@@ -16,7 +16,7 @@ app.use(
         origin: [
             "http://localhost:5173",
             "http://localhost:3000",
-            "https://ai-powered-personalized-meal-hke0.onrender.com"
+            "https://ai-powered-personalized-meal-3ey0.onrender.com"
         ],
         credentials: true,
     })
