@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: "https://ai-powered-personalized-meal-3ey0.onrender.com",
+    baseURL: "https://ai-powered-personalized-meal-3ey0.onrender.com/api",
 });
 
 api.interceptors.request.use((config) => {
